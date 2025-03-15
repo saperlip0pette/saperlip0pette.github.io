@@ -5,13 +5,22 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/age/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/animal/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/p/date-limite-de-consommation-d%C3%A9pass%C3%A9e/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/en-mode-sauvageonne/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/femme/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ironie/</loc>
@@ -29,6 +38,9 @@
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/rides/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/soci%C3%A9t%C3%A9/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -37,6 +49,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/veillir/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>

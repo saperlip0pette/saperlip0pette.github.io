@@ -16,6 +16,14 @@
         <description></description>
         </item>
         <item>
+        <title>Femme</title>
+        <link>http://localhost:1313/tags/femme/</link>
+        <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/femme/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Ironie</title>
         <link>http://localhost:1313/tags/ironie/</link>
         <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
@@ -40,11 +48,27 @@
         <description></description>
         </item>
         <item>
+        <title>Rides</title>
+        <link>http://localhost:1313/tags/rides/</link>
+        <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/rides/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Société</title>
         <link>http://localhost:1313/tags/soci%C3%A9t%C3%A9/</link>
         <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/soci%C3%A9t%C3%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Veillir</title>
+        <link>http://localhost:1313/tags/veillir/</link>
+        <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/veillir/</guid>
         <description></description>
         </item>
         
