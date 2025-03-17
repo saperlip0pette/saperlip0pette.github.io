@@ -3,24 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/le-monde-en-r%C3%A9alit%C3%A9...virtuelle/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/danger/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ecran/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jeunes/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/jeunesse/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/parentalit%C3%A9/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/soci%C3%A9t%C3%A9/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/soci%C3%A9t%C3%A9/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/age/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/date-limite-de-consommation-d%C3%A9pass%C3%A9e/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/femme/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rides/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/veillir/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/animal/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/p/date-limite-de-consommation-d%C3%A9pass%C3%A9e/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/p/en-mode-sauvageonne/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/femme/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ironie/</loc>
@@ -33,24 +69,6 @@
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mode/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rides/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/soci%C3%A9t%C3%A9/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/soci%C3%A9t%C3%A9/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/veillir/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
