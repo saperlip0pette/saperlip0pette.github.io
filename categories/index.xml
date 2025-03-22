@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Saperlipopette</title>
+        <link>https://saperlip0pette.github.io/categories/</link>
+        <description>Recent content in Categories on Saperlipopette</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <copyright>Griotte Lapone</copyright>
+        <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saperlip0pette.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Humour</title>
+        <link>https://saperlip0pette.github.io/categories/humour/</link>
+        <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/humour/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Voyage</title>
+        <link>https://saperlip0pette.github.io/categories/voyage/</link>
+        <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/voyage/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Jeunesse</title>
+        <link>https://saperlip0pette.github.io/categories/jeunesse/</link>
+        <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/jeunesse/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Parentalité</title>
+        <link>https://saperlip0pette.github.io/categories/parentalit%C3%A9/</link>
+        <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/parentalit%C3%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Société</title>
+        <link>https://saperlip0pette.github.io/categories/soci%C3%A9t%C3%A9/</link>
+        <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/soci%C3%A9t%C3%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Age</title>
+        <link>https://saperlip0pette.github.io/categories/age/</link>
+        <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/age/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mode</title>
+        <link>https://saperlip0pette.github.io/categories/mode/</link>
+        <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/mode/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
