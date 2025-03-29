@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="fr-fr" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Me, myself et mon estime ">
+<title>La complexité des complexés</title>
+
+<link rel='canonical' href='https://saperlip0pette.github.io/p/la-complexit%C3%A9-des-complex%C3%A9s/'>
+
+<link rel="stylesheet" href="/scss/style.min.ea58f98c878b3efc04ad777fa167102bd6e52de8f8dfb0943c900c475e4cf2a9.css"><meta property='og:title' content="La complexité des complexés">
+<meta property='og:description' content="Me, myself et mon estime ">
+<meta property='og:url' content='https://saperlip0pette.github.io/p/la-complexit%C3%A9-des-complex%C3%A9s/'>
+<meta property='og:site_name' content='Saperlipopette'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='société' /><meta property='article:tag' content='physique' /><meta property='article:tag' content='corps' /><meta property='article:published_time' content='2025-03-29T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-03-29T00:00:00&#43;00:00'/><meta property='og:image' content='https://saperlip0pette.github.io/p/la-complexit%C3%A9-des-complex%C3%A9s/complexes.png' />
+<meta name="twitter:title" content="La complexité des complexés">
+<meta name="twitter:description" content="Me, myself et mon estime "><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://saperlip0pette.github.io/p/la-complexit%C3%A9-des-complex%C3%A9s/complexes.png' />
+    <link rel="shortcut icon" href="/favicon.png" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Afficher le menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_9684861c31017a41.png" width="300"
+                            height="303" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Saperlipopette</a></h1>
+            <h2 class="site-description">Regard fou sur un monde flou</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://www.instagram.com/griotte_lapone/'
+                        target="_blank"
+                        title="Instagram"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-instagram"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 8a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" /><path d="M9 12a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" /><path d="M16.5 7.5v.01" /></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Mode sombre</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/la-complexit%C3%A9-des-complex%C3%A9s/">
+                <img src="/p/la-complexit%C3%A9-des-complex%C3%A9s/complexes_hu_e9525deb723ce1da.png"
+                        srcset="/p/la-complexit%C3%A9-des-complex%C3%A9s/complexes_hu_e9525deb723ce1da.png 800w, /p/la-complexit%C3%A9-des-complex%C3%A9s/complexes_hu_1b1426bf1ea29c9c.png 1600w"
+                        width="800" 
+                        height="242" 
+                        loading="lazy"
+                        alt="Featured image of post La complexité des complexés" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/soci%C3%A9t%C3%A9/" >
+                Société
+            </a>
+        
+            <a href="/categories/physique/" >
+                Physique
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/la-complexit%C3%A9-des-complex%C3%A9s/">La complexité des complexés</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Me, myself et mon estime 
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">29 mars 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    5 minutes de lecture
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>&ldquo;Dis-moi comment tu te vois, je te dirais que tu te trompes&rdquo;. L&rsquo;image que nous renvoyons aux autres est à mille lieux de ce que nous voyons de nous dans le miroir. Pour ma part, tous les matins, c&rsquo;est la stupeur : &ldquo;Mamie, c&rsquo;est bien toi qui te brosse les dents, qui te coiffe, qui tente de camoufler tes boutons et tes ridules, ici dans MA salle de bain ???&rdquo; Pourtant la vérité est ailleurs : je suis juste &ldquo;en tête à tête avec moi-même, j&rsquo;ai pas la force de m&rsquo;dire je t&rsquo;aime&rdquo; et ce n&rsquo;est pas simple tous les jours. Bienvenue dans un monde de complexes fait de cernes, de poches, de rides, de vergetures, de cicatrices, de boutons, de peau d&rsquo;orange, de bourrelets, de seins trop petits, de seins trop gros, de fesses plates ou d&rsquo;éminents popotins, de dents jaunes, de ventre mous, de cuisses flasques&hellip; Bref, il faut de tous les complexes pour faire un monde !</p>
+<p>Lorsqu&rsquo;on me demande ce que j&rsquo;aime chez moi, la réponse étonne toujours mes interlocuteurs. Je pourrais classiquement parler de la couleur de mes yeux en citant Aznavour : &ldquo;plus bleu que le bleu de tes yeux, je ne vois rien de mieux, même le bleu des cieux&rdquo;, mais je préfère recentrer le débat sur&hellip;mes oreilles. Pourquoi me direz-vous ? Déjà parce qu&rsquo;elles sont réellement mignonnes, mais aussi et surtout pour surprendre et couper la chique, pour cacher la forêt derrière l&rsquo;arbre de mes complexes ! Comme environ 70% des femmes françaises (<a class="link" href="https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-jeudi-12-octobre-2023-1469884"  target="_blank" rel="noopener"
+    >sondage IFOP de 2023</a>), je trouve toujours quelque chose à dire sur moi. Ce qui est bien, c&rsquo;est que je ne me focalise jamais sur la même zone mais qu&rsquo;à force de m&rsquo;acharner sur mon corps, tout y sera passé ! Quand ce n&rsquo;est pas la couleur de mes cheveux (d&rsquo;abord trop ternes, puis ensuite trop blancs), c&rsquo;est la taille de mon nez avec lequel je pourrais chercher des truffes, concurrence difficile à accepter pour les cochons truffiers. Puis viennent ensuite mes doigts qui ressemblent à des saucisses knacky ball dès les premières chaleurs. On reste sur la thématique porcine ! On continue avec mon contour de l&rsquo;oeil plissé, sec et cerné mais pas par la police. Je vous passe le combo rides/boutons qui malgré sa rareté ne m&rsquo;apporte rien qu&rsquo;un appauvrissement bancaire puisque tel Indiana Jones à la recherche de l&rsquo;Arche perdue, je suis à la conquête de la crème miracle qui me ferait rajeunir mais sans acné. Quant à l&rsquo;idée de me mettre en maillot de bain, elle me fait directement sombrer dans l&rsquo;eau glaciale de mes cauchemars, iceberg droit devant !</p>
+<p>Bien évidemment, mon entourage tente de me persuader que j&rsquo;exagère, que je suis bien comme je suis, que patati, que patata&hellip;Dégré d&rsquo;objectivité : zéro ! ! C&rsquo;est comme dire à un sourd : &ldquo;écoute un peu ce qu&rsquo;on te dit, fais un effort !&rdquo;. Focusser sur des choses que les autres ne remarquent pas forcément est parfois une souffrance terrible et nous fait perdre confiance en nous. Peu importe l&rsquo;âge, peu importe la catégorie sociale, peu importe le sexe même: nous sommes tous égaux face à nos complexes. Alors pour nous sentir mieux, nous pouvons utiliser certains subterfuges plus ou moins adaptés : les soutiens-gorges push-up, les culottes gainantes de Bridget Jones, les lentilles de couleur, etc&hellip; Attention toutefois à doser. Si Rita Hayworth disait : &ldquo;Les hommes couchent avec Gilda, mais se réveillent avec moi&rdquo; où dans tous les cas, elle reste sublime, cela n&rsquo;est pas forcément vrai pour tout le monde : &ldquo;Les hommes couchent avec Félindra, mais se réveillent avec Raymonde&rdquo;&hellip;trop d&rsquo;artifices tue le game !<br>
+Une autre solution un peu plus perenne : la médecine esthétique, à condition que les petits travaux ne deviennent pas la Sagrada Familia de Gaudi. Récemment, j&rsquo;ai voulu tester cette option : ne supportant plus mon look contour de l&rsquo;oeil pomme de terre flétrie, je vais naïvement dans un centre spécialisé où l&rsquo;élégance et le raffinement du lieu donnent envie de changer toute la déco chez soi mais aussi sur soi ! Je suis reçue par une femme médecin dont le discours bien rôdé et plein de bienveillance met en confiance. Sauf que&hellip;mes envies légères d&rsquo;avoir l&rsquo;air un peu moins fatigué se sont transformées en chantier au long cours avec une date de début des travaux sans certitude d&rsquo;en voir la fin un jour. Et un crédit sur 25 ans au moins, que je ne pourrai pas défendre auprès de mon banquier puisqu&rsquo;on est loin d&rsquo;un achat immobilier (entretien des parties communes, ça compte ?). Une évidence m&rsquo;est alors apparue : finalement, mon entourage a toujours raison et je ne vais plus remettre sa parole en question&hellip;</p>
+<p>Pour expliquer l&rsquo;origine de nos complexes, il faudrait remonter à la source tel le saumon parvenu à maturité qui migre vers sa rivière natale pour y frayer. Pensez-vous que les thons font de même ?! Bref, trop long, trop triste et trop pénible. Parce qu&rsquo;essayer de comprendre, c&rsquo;est bien, mais les réseaux sociaux, le cinéma, tous les médias en général nous feront toujours croire qu&rsquo;il faut répondre à des critères précis qui sont loin de ce que nous sommes intrinsèquement. Alors hauts les coeurs, comme dirait Joe E. Brown dans <em>Certains l&rsquo;aiment chaud</em> : &ldquo;Well, nobody&rsquo;s perfect!&rdquo;.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/soci%C3%A9t%C3%A9/">Société</a>
+        
+            <a href="/tags/physique/">Physique</a>
+        
+            <a href="/tags/corps/">Corps</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Contenus liés</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/p/le-monde-en-r%C3%A9alit%C3%A9...virtuelle/">
+        
+        
+            <div class="article-image">
+                <img src="/p/le-monde-en-r%C3%A9alit%C3%A9...virtuelle/ecran.658f90cdec559f87f7b98f3421307e3d_hu_8303a1cc5f1effb6.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post  Le monde en réalité...virtuelle"
+                        
+                        data-hash="md5-ZY&#43;QzexVn4f3uY80ITB&#43;PQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title"> Le monde en réalité...virtuelle</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="d262e895-7005-44f2-9943-efb5b2cfc861"
+    data-page-id="f32c279987ea676522bac868f87ea1d1" data-page-url="https://saperlip0pette.github.io/p/la-complexit%C3%A9-des-complex%C3%A9s/" data-page-title="La complexité des complexés" style="min-height: 600px;
+    background-color: var(--card-background);
+    border-radius: var(--card-border-radius);
+    box-shadow: var(--shadow-l1);
+    padding: var(--card-padding);"></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<script>
+    function setCusdisTheme(theme) {
+        let cusdis = document.querySelector('#cusdis_thread iframe');
+        if (cusdis) {
+            window.CUSDIS.setTheme(theme)
+        }
+    }
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (e.detail === "dark") {
+            setCusdisTheme("none");
+        } else {
+            setCusdisTheme(e.detail)
+        }
+    })
+
+    window.onload = function () {
+        const commentsFrame = document.getElementsByTagName('iframe');
+        for (const i of commentsFrame) {
+            i.style.height = "100%";
+        }
+    }   
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Griotte Lapone
+    </section>
+    
+    <section class="powerby">
+        Généré avec <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Thème <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> conçu par <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
