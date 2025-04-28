@@ -7,7 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-fr</language>
         <copyright>Griotte Lapone</copyright>
-        <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saperlip0pette.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saperlip0pette.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Femmes</title>
+        <link>https://saperlip0pette.github.io/categories/femmes/</link>
+        <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/femmes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Humour</title>
+        <link>https://saperlip0pette.github.io/categories/humour/</link>
+        <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://saperlip0pette.github.io/categories/humour/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Consommation</title>
         <link>https://saperlip0pette.github.io/categories/consommation/</link>
         <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
@@ -64,27 +80,11 @@
         <description></description>
         </item>
         <item>
-        <title>Femmes</title>
-        <link>https://saperlip0pette.github.io/categories/femmes/</link>
-        <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saperlip0pette.github.io/categories/femmes/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Physique</title>
         <link>https://saperlip0pette.github.io/categories/physique/</link>
         <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://saperlip0pette.github.io/categories/physique/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Humour</title>
-        <link>https://saperlip0pette.github.io/categories/humour/</link>
-        <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://saperlip0pette.github.io/categories/humour/</guid>
         <description></description>
         </item>
         <item>
